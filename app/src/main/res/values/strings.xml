@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Socialnetwork</string>
+    <string name="facebook_id">322637731529408</string>
+    <integer name="com_vk_sdk_AppId">6127017</integer>
+    <string name="show_albums">Show albums</string>
+    <string name="facebook_url_albums">https://graph.facebook.com/olia.jekyll/albums</string>
+    <string name="facebook_url_photos">https://graph.facebook.com/[ALBUMID]/photos</string>
+    <string name="menu_item_clear_memory_cache">Clear memory cache</string>
+    <string name="menu_item_clear_disc_cache">Clear disc cache</string>
+    <string name="menu_item_pause_on_scroll">Pause on scroll</string>
+    <string name="menu_item_pause_on_fling">Pause on fling</string>
+    <string name="action_sign_in_short">Sign in with VK</string>
+    <string name="continue_using_app">Show albums</string>
+    <string name="logout">Logout</string>
+</resources>
